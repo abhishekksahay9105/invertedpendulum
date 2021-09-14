@@ -94,6 +94,8 @@ legend()
 eig(Anew)
 
 %pid control method
+%To get the values of Kp,Kd,Ki use matlab pid tuner app if mathematical model is avaliable. Otherwise the are many method to tune pid in literature one can go 
+% through it (i.e., Trial and error method,Zeigler-Nichols Method).
 
 
 
